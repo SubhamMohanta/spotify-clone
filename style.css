@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body{
+    background-color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#logo{
+    padding-top: 13px;
+    padding-left: 12px; /*spotify logo */
+}
+
+#logo1{
+    margin-top: 40px;
+    margin-left: 18px; /*home logo */
+}
+
+#logo2{
+    padding-top: 18px;
+    margin-left: 18px; /*search logo */
+}
+
+#logo3{
+    padding-top: 18px;
+    margin-left: 18px; /*library logo */
+}
+
+#logo4{
+    padding-top: 40px;
+    margin-left: 18px; /*create playlist logo */
+}
+
+#logo5{
+    padding-top: 18px;
+    margin-left: 18px; /*liked songs logo */
+}
+
+#logo6{
+    padding-top: 18px;
+    margin-left: 18px; /*your episodes logo */
+}
+
+#logo7{
+    padding-top: 55px;
+    margin-left: 18px;
+}
+
+#logo8{
+    padding-top: 5px;
+    margin-left: 140px;
+}
+
+.whole{
+    display: flex;
+    flex-direction: row;
+}
+
+.side-bar1{
+    display: flex;
+    flex-direction: column;
+}
+
+#sidebar{
+    display: flex;
+    flex-direction: column;
+}
+
+#essentials{
+    background-color: transparent;
+    color: white;
+    width: 80px;
+    margin-left: 10px;
+    border: 0;
+    width: 100px;
+    text-align: left;
+    align-items: center;
+    font-size: 16px;
+    white-space: nowrap;
+}
+
+#essentials1{
+    background-color: transparent;
+    color: white;
+    width: 80px;
+    margin-left: 10px;
+    border: 0;
+    width: 100px;
+    text-align: left;
+    align-items: center;
+    font-size: 16px;
+    white-space: nowrap;
+    padding-top: 50px;
+}
+
+#essentials2{
+    background-color: transparent;
+    color: white;
+    width: 80px;
+    margin-left: 10px;
+    border: 0;
+    width: 100px;
+    text-align: left;
+    align-items: center;
+    font-size: 16px;
+    white-space: nowrap;
+    padding-top: 18px;
+}
+
+.main{
+    display:flex;
+    flex-direction: row;
+}
+
+#acc{
+    margin-left: 1000px;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    background-color: rgb(10, 10, 10);
+}
+#profile{
+    border-radius: 50%;
+}
+
